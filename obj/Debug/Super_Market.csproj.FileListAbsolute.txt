@@ -1,0 +1,30 @@
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\bin\Debug\Super_Market.exe.config
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\bin\Debug\Super_Market.exe
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\bin\Debug\Super_Market.pdb
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.Product.resources
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.Properties.Resources.resources
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.csproj.GenerateResource.Cache
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.exe
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.pdb
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.Selling.resources
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.Form1.resources
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\bin\Debug\Super_Market.exe.config
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.exe
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.pdb
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\bin\Debug\Super_Market.exe
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\bin\Debug\Super_Market.pdb
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.Form1.resources
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.Product.resources
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.Selling.resources
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.csproj.GenerateResource.Cache
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.DisplaySellings.resources
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.Profits.resources
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.DisplaySellings.resources
+C:\Users\The Programmer\Desktop\Super_Market\Super_Market\obj\Debug\Super_Market.Profits.resources
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.Report_Form.resources
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.Report2.resources
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\RdlCompile.cache
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\RdlCompile.compiled
+F:\المنهج الدراسى\Disktop Projects\Super_Market\Super_Market\obj\Debug\Super_Market.csprojResolveAssemblyReference.cache
